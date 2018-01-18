@@ -1,0 +1,9 @@
+body {	font-family: Helvetica,Arial,sans-serif;    font-size: 14px;}
+#mainContent > img {left: 49%;    position: relative;}
+ul.list-container {list-style: none; padding:0; }
+ul.list-container li {margin: 10px 10px;  display: inline-block;}
+ul.list-container li h3 {margin: 0;}
+.item-img{width:auto; float:left; margin-right:10px;}
+.item-img img{width:100px}
+.item-content{ width: calc(100% - 110px); float:right;}
+.text-gray{color:#aaa;}
